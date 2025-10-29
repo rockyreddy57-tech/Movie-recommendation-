@@ -1,0 +1,8 @@
+| movieId | review                                     |
+| ------- | ------------------------------------------ |
+| 1       | Loved this movie! It was fun and creative. |
+| 1       | Too childish for me.                       |
+| 2       | Interesting story but too slow.            |
+| 2       | Fun adventure for kids.                    |
+| 3       | Not funny at all.                          |
+| 3       | Great acting but boring plot.              |
